@@ -1,0 +1,1 @@
+final String BaseUrl = "https://ukk-p1.smktelkom-mlg.sch.id/api";
